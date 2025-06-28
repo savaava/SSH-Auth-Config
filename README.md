@@ -16,7 +16,7 @@ Se non si ha ancora una KeyPair SSH (chiave SSH privata e pubblica), è necessar
    ```bash
    cat ~/.ssh/id_rsa.pub
    ```
-   Un esempio della chiave da copiare:
+   Un esempio della chiave da copiare (è un estratto falso, la chiave effettiva è molto più lunga):
    ```plaintext
     ssh-rsa DDDsL/SfgPVf8Da/Vqpe112NaXMC...QbHJigwaa== ciao@sonoio
    ```
