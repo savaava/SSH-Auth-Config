@@ -46,6 +46,7 @@ Permette di utilizzare le chiavi private senza doverle digitare ogni volta che s
   ```bash
   git config --global --list
   ```
+  Se non esiste il config file ```~/.gitconfig``` allora si devono impostare per la prima volta il nome e l'email:
 - Per impostare correttamente il nome utente e l'email globali:
    ```bash
    git config --global user.name "savaava"
