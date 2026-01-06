@@ -73,10 +73,10 @@ Permette di utilizzare le chiavi private senza doverle digitare ogni volta che s
         ```bash
         git remote set-url origin git@github.com:utente/nome-repo.git
         ```
-        ```bash
-        git remote -v
-        origin  git@github.com:savaava/MyTVsKeeper.git (fetch)
-        origin  git@github.com:savaava/MyTVsKeeper.git (push)
+        oppure
+       ```bash
+        git remote add origin git@github.com:utente/nome-repo.git
+        git push -u origin master
         ```
 
 ## Conclusione
